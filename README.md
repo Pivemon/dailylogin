@@ -1,4 +1,7 @@
 # Genshin Hoyolab Daily Check-in Bot 📜🖋
+-Hoyoverse (formerly Mihoyo) has changed they trademark and URLs, so that i have added some smol change :v
+Thanks to the pull request of @igorgaming, this project is own  by @darkGrimoire
+
 Genshin Impact's Hoyolab Daily Check-in Bot is here! The concept is simple, **run once, run forever**. You only need to run it once, then it will continue to run forever (except if you uninstall it ofc tehe)
 
 ![Demo Gif](demo/demo.gif)
